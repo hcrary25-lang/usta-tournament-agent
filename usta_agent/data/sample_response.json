@@ -1,0 +1,151 @@
+{
+  "total": 8,
+  "searchResults": [
+    {
+      "item": {
+        "id": "sample-001",
+        "name": "Johns Creek Fall L5 Junior Open",
+        "startDateTime": "2026-10-17T09:00:00Z",
+        "endDateTime": "2026-10-18T18:00:00Z",
+        "level": { "name": "Level 5" },
+        "location": {
+          "name": "Newtown Park",
+          "address": { "city": "Johns Creek", "state": "GA" },
+          "geo": { "latitude": 34.0450, "longitude": -84.2150 }
+        },
+        "url": "https://playtennis.usta.com/tournaments",
+        "events": [
+          { "division": { "gender": "boys", "eventType": "singles", "ageCategory": { "maximumAge": 12 } }, "name": "Boys' 12 & Under Singles" },
+          { "division": { "gender": "girls", "eventType": "singles", "ageCategory": { "maximumAge": 12 } }, "name": "Girls' 12 & Under Singles" }
+        ]
+      }
+    },
+    {
+      "item": {
+        "id": "sample-002",
+        "name": "Atlanta Winter Classic L4",
+        "startDateTime": "2026-11-07T09:00:00Z",
+        "endDateTime": "2026-11-09T18:00:00Z",
+        "level": { "name": "Level 4" },
+        "location": {
+          "name": "Bitsy Grant Tennis Center",
+          "address": { "city": "Atlanta", "state": "GA" },
+          "geo": { "latitude": 33.8170, "longitude": -84.4050 }
+        },
+        "url": "https://playtennis.usta.com/tournaments",
+        "events": [
+          { "division": { "gender": "boys", "eventType": "singles", "ageCategory": { "maximumAge": 12 } }, "name": "Boys' 12 & Under Singles" },
+          { "division": { "gender": "boys", "eventType": "singles", "ageCategory": { "maximumAge": 14 } }, "name": "Boys' 14 & Under Singles" }
+        ]
+      }
+    },
+    {
+      "item": {
+        "id": "sample-003",
+        "name": "Chattanooga Riverfront L4 Junior",
+        "startDateTime": "2026-11-07T09:00:00Z",
+        "endDateTime": "2026-11-08T18:00:00Z",
+        "level": { "name": "Level 4" },
+        "location": {
+          "name": "Champions Tennis Club",
+          "address": { "city": "Chattanooga", "state": "TN" },
+          "geo": { "latitude": 35.0456, "longitude": -85.3097 }
+        },
+        "url": "https://playtennis.usta.com/tournaments",
+        "events": [
+          { "division": { "gender": "boys", "eventType": "singles", "ageCategory": { "maximumAge": 12 } }, "name": "Boys' 12 & Under Singles" }
+        ]
+      }
+    },
+    {
+      "item": {
+        "id": "sample-004",
+        "name": "Macon Level 3 Championship (should be EXCLUDED: L3)",
+        "startDateTime": "2026-11-14T09:00:00Z",
+        "endDateTime": "2026-11-16T18:00:00Z",
+        "level": { "name": "Level 3" },
+        "location": {
+          "name": "John Drew Smith Tennis Center",
+          "address": { "city": "Macon", "state": "GA" },
+          "geo": { "latitude": 32.8407, "longitude": -83.6324 }
+        },
+        "url": "https://playtennis.usta.com/tournaments",
+        "events": [
+          { "division": { "gender": "boys", "eventType": "singles", "ageCategory": { "maximumAge": 12 } }, "name": "Boys' 12 & Under Singles" }
+        ]
+      }
+    },
+    {
+      "item": {
+        "id": "sample-005",
+        "name": "Greenville Girls L5 Open (should be EXCLUDED: girls only)",
+        "startDateTime": "2026-11-21T09:00:00Z",
+        "endDateTime": "2026-11-22T18:00:00Z",
+        "level": { "name": "Level 5" },
+        "location": {
+          "name": "Greenville Tennis Center",
+          "address": { "city": "Greenville", "state": "SC" },
+          "geo": { "latitude": 34.8526, "longitude": -82.3940 }
+        },
+        "url": "https://playtennis.usta.com/tournaments",
+        "events": [
+          { "division": { "gender": "girls", "eventType": "singles", "ageCategory": { "maximumAge": 12 } }, "name": "Girls' 12 & Under Singles" }
+        ]
+      }
+    },
+    {
+      "item": {
+        "id": "sample-006",
+        "name": "Miami Orange Bowl Prep L4 (should be EXCLUDED: too far)",
+        "startDateTime": "2026-12-05T09:00:00Z",
+        "endDateTime": "2026-12-07T18:00:00Z",
+        "level": { "name": "Level 4" },
+        "location": {
+          "name": "Crandon Park",
+          "address": { "city": "Key Biscayne", "state": "FL" },
+          "geo": { "latitude": 25.7090, "longitude": -80.1570 }
+        },
+        "url": "https://playtennis.usta.com/tournaments",
+        "events": [
+          { "division": { "gender": "boys", "eventType": "singles", "ageCategory": { "maximumAge": 12 } }, "name": "Boys' 12 & Under Singles" }
+        ]
+      }
+    },
+    {
+      "item": {
+        "id": "sample-007",
+        "name": "Augusta Doubles Bash L5 (should be EXCLUDED: doubles only)",
+        "startDateTime": "2026-12-12T09:00:00Z",
+        "endDateTime": "2026-12-13T18:00:00Z",
+        "level": { "name": "Level 5" },
+        "location": {
+          "name": "Newman Tennis Center",
+          "address": { "city": "Augusta", "state": "GA" },
+          "geo": { "latitude": 33.4735, "longitude": -82.0105 }
+        },
+        "url": "https://playtennis.usta.com/tournaments",
+        "events": [
+          { "division": { "gender": "boys", "eventType": "doubles", "ageCategory": { "maximumAge": 12 } }, "name": "Boys' 12 & Under Doubles" }
+        ]
+      }
+    },
+    {
+      "item": {
+        "id": "sample-008",
+        "name": "Birmingham Spring Junior L5",
+        "startDateTime": "2027-01-16T09:00:00Z",
+        "endDateTime": "2027-01-17T18:00:00Z",
+        "level": { "name": "Level 5" },
+        "location": {
+          "name": "Pullman Tennis Center",
+          "address": { "city": "Birmingham", "state": "AL" },
+          "geo": { "latitude": 33.5186, "longitude": -86.8104 }
+        },
+        "url": "https://playtennis.usta.com/tournaments",
+        "events": [
+          { "division": { "gender": "boys", "eventType": "singles", "ageCategory": { "maximumAge": 12 } }, "name": "Boys' 12 & Under Singles" }
+        ]
+      }
+    }
+  ]
+}
